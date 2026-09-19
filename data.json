@@ -74,16 +74,7 @@
     }
   ],
   "emails": [],
-  "websites": [
-    {
-      "label": "وبسایت",
-      "value": "https://www.bontimecoffee.com/"
-    },
-    {
-      "label": "کاتالوگ",
-      "value": "https://web.cataloger.org/bontime"
-    }
-  ],
+  "websites": [],
   "social": {
     "telegram": "Computer_MF_2005",
     "whatsapp": "989106844195",
@@ -98,7 +89,7 @@
     "mapLink": "https://maps.app.goo.gl/59UUrRQrdMwZzUte8"
   },
   "theme": {
-    "accentPreset": "blue",
+    "accentPreset": "orange",
     "font": "Vazirmatn",
     "layout": "modern",
     "bgMode": "solid",
